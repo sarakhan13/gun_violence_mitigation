@@ -3,19 +3,19 @@ Deploying A.I-Driven Solutions to Mitigate Gun Violence
 
 Introduction:
 
-Project Objectives 
+Project Objectives: 
 Over the years gun violence such as mass shootings and hate crimes have increased in the USA. “In 2021, the most recent year for which complete data is available, 48,830 people died from gun-related injuries in the U.S, according to the CDC”. In addition, due to many advancements in AI, in particular using object detection/ recognition to interact with users in real time. Therefore, we plan to train AI to detect a suspect’s actions before the damage is caused and alert individuals nearby to avoid neighborhoods that may be dangerous.
 
-Project Goals
+Project Goals:
 We have chosen to utilize the Washington DC homicide crime dataset from the last six years. This dataset will facilitate our analysis of several key aspects, including the average age of suspects, comparisons of neighborhood crime rates, and seasonal crime rate variations. 
 
 Data Management:
 
-Dataset
+Dataset:
 Two different datasets were used to optimize the project objectives: one focusing on incidents, including mostly homicide and non-fatal shooting crime data, and the other focusing on suspects. These datasets contain comprehensive information on incidents and suspects in the DC area from 2018 to 2023.
 The data comes from D.C. Witness, a nonprofit organization dedicated to increasing public awareness of such incidents.
 
-Data Preparation
+Data Preparation:
 The project was executed using Databricks, leveraging SQL and Python for data processing. Several libraries, functions and components were used for various tasks: 
 Merging datasets: SparkSession and DataFrame columns(Col)
 Linear regression: StringIndexer, OneHotEncoder, VectorAssembler,  and Pipeline
@@ -25,13 +25,13 @@ Confusion matrix: confusion_matrix, seaborn, matplotlib.pyplot, pandas, and seab
 Classification model assessment: classification_report
 Visualization: matplotlib.pyplot
 
-Data Merging
+Data Merging:
 The Incident and Suspect datasets were merged using an Inner join function, resulting in a combined dataset. Prior to merging, the Incident dataset contained 1960 records, while the Suspect dataset had 1458 records. However, after merging, only 573 records remained. To accomplish this merging process, SparkSession and DataFrame columns (Col) were utilized to match the corresponding records between the two datasets. Specifically, the join was performed based on the following keys from the Incident dataset: incident_year, incident_month, incident_day, block_number, street_name, neighborhood, ward, city, state, and zip code.
 
-Data Cleaning
+Data Cleaning:
 By removing irrelavnt columns and dropping null records from relevant columns, the dataset resulted in a total of 406 records and 15 columns. Databricks and Google Colab were utilized in Data Cleaning. This focused dataset allowed for more precise and effective prediction modeling.
 
-Data Transformation
+Data Transformation:
 All categorical features in the dataset regardless of whether they will be used to train a model were transformed first by using a string indexer to convert the categorical values into numeric values and second using one-hot encoding to further encode the numeric values.
 
 Problem: Identifying D.C. ward: 
@@ -44,6 +44,7 @@ The max depth for Decision Tree and Random Forest is set to 10 and the numTrees 
 Results:
 
 Using Classification Report and Confusion Matrices for each model the following observations can be made:
+
 Decision Tree:
 
 The model was 93% accurate on the test set. 
