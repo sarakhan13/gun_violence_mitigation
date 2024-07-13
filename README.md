@@ -42,21 +42,26 @@ Three models built: Logistic Regression, Decision Tree and Random Forest.
 The max depth for Decision Tree and Random Forest is set to 10 and the numTrees parameter for Random Forest is set to 50. These values were determined to give the best results, this was evaluated based on fine-tuning. 
 
 Results:
+
 Using Classification Report and Confusion Matrices for each model the following observations can be made:
-Decision Tree
+Decision Tree:
+
 The model was 93% accurate on the test set. 
 The F1 score for Wards 4, 7, and 8 is the highest. This is further validated by the confusion matrix that shows all classes for these wards were classified correctly. 
 All instances for Ward 2 were misclassified by the model. 
 
 Logistic Regression: 
+
 The model was 90% accurate on the test set.
 The F1 score for Wards 7, and 8 is the highest. All instances for Ward 2 were misclassified by the model. The model also did not perform well on Ward 6 instances.
 
 Random Forest: 
+
 The model was 87% accurate on the test set.
 The F1 score for Ward 8 is the highest. All instances for Ward 2 were misclassified by the model. The model also did not perform well on Ward 1 and 6 instances.
 
 Predictive insights and Conclusions:
+
 Decision Tree performed the best among all the three classification models. Logistic regression was 2% less accurate than the Decision Tree model. The Random Forest model performed poorly on the dataset. 
 It is interesting to note that in the test set, there were no records from ward 3, this could be due to the random splitting of the dataset or data on ward 3 may be less as compared to other wards.
 The imbalance between the dataset for Wards can also influence the training of the model and introduce biases. Distributing the dataset with an equal number of records for each Ward can help enhance the model’s accuracy. This explains why all models predicted poorly on Ward 2.
