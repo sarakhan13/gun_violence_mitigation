@@ -35,6 +35,7 @@ Data Transformation:
 All categorical features in the dataset regardless of whether they will be used to train a model were transformed first by using a string indexer to convert the categorical values into numeric values and second using one-hot encoding to further encode the numeric values.
 
 Problem: Identifying D.C. ward: 
+
 Based on the features available, street name, zip code, police district, suspect gender, incident type, and neighborhood were the most appropriate features that can influence which of the 8 D.C. wards is an incident occurring. 
 The independent variables were transformed using a vector assembler to form one column as “features”. The independent variable was renamed as the “label”. 
 The 80% of the dataset was divided into a training set and the rest 20% was reserved to be the training dataset. 
