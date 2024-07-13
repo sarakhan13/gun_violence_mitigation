@@ -1,0 +1,407 @@
+incident_year,incident_month,incident_day,block_number,street_name,neighbourhood,ward,city,state,zipcode,victim,incident_ type,victim_age,victim_gender,police_district,suspect,arrested_on,suspect_birthdate,suspect_age_when_arrested,incident_type,suspect_gender 
+2023,3,29,2700,Georgia Avenue,Columbia Heights,1,Washington,DC,20001,V1,non-fatal shooting,18,male,NW,S3029,3/29/2023,01-10-2005,18,non-fatal shooting,male
+2023,3,29,2700,Georgia Avenue,Columbia Heights,1,Washington,DC,20001,V1,non-fatal shooting,18,male,NW,S3027,3/29/2023,7/15/2004,18,non-fatal shooting,male
+2023,2,26,3300,D Street,Fort Dupont Park,7,Washington,DC,20019,V8,homicide: police-involved,57,male,SE,S3792,2/26/2023,04-12-1981,41,homicide: non-police-involved,male
+2023,2,26,3300,D Street,Fort Dupont Park,7,Washington,DC,20019,V9,homicide: non-police-involved,57,male,SE,S3792,2/26/2023,04-12-1981,41,homicide: non-police-involved,male
+2021,10,25,1600,18Th Street,Anacostia,8,Washington,DC,20020,V17,homicide: non-police-involved,26,male,SE,S2513,10/25/2021,06-10-1991,30,homicide: non-police-involved,male
+2023,2,4,1400,Spring Road,Columbia Heights,1,Washington,DC,20010,V19,homicide: non-police-involved,39,male,NW,S3055,4/27/2023,01-11-2004,19,homicide: non-police-involved,male
+2021,10,6,400,12Th Street,Old City 1,6,Washington,DC,20003,V22,homicide: non-police-involved,26,male,SE,S2568,12/21/2021,2/17/2003,18,homicide: non-police-involved,male
+2019,1,8,5300,Dix Street,Deanwood,7,Washington,DC,20019,V28,homicide: non-police-involved,46,male,NE,S588,2/27/2019,07-10-1993,25,homicide: non-police-involved,male
+2022,8,7,300,50Th Street,Deanwood,7,Washington,DC,20019,V40,homicide: non-police-involved,31,male,NE,S2842,10/18/2022,7/30/1998,24,homicide: non-police-involved,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3829,8/16/2023,10/18/1993,29,non-fatal shooting,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3781,8/24/2022,6/14/1993,29,non-fatal shooting,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3779,5/18/2022,04-08-1992,30,non-fatal shooting,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3776,2/28/2022,6/23/1987,34,non-fatal shooting,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3775,2/28/2022,10/19/1989,32,non-fatal shooting,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S3367,8/16/2023,10/18/1993,29,homicide: non-police-involved,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S2774,8/24/2022,6/14/1993,29,homicide: non-police-involved,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S2685,5/18/2022,04-08-1992,30,homicide: non-police-involved,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S2619,2/28/2022,6/23/1987,34,homicide: non-police-involved,male
+2020,6,14,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V67,homicide: non-police-involved,21,male,SE,S2618,2/28/2022,10/19/1989,32,homicide: non-police-involved,male
+2020,10,5,4900,Connecticut Avenue,Wakefield,3,Washington,DC,20008,V76,homicide: non-police-involved,23,male,NW,S3770,10/24/2021,4/18/1997,24,homicide: non-police-involved,male
+2021,8,23,1800,9Th Street,Old City 2,1,Washington,DC,20001,V82,homicide: non-police-involved,32,male,NW,S2907,01-05-2023,12-02-1995,27,homicide: non-police-involved,male
+2023,3,2,4200,Kansas Avenue,16th Street Heights,4,Washington,DC,20011,V84,homicide: non-police-involved,45,male,NW,S2952,03-02-2023,3/20/1986,36,homicide: non-police-involved,male
+2022,10,7,1500,Butler Street,Anacostia,8,Washington,DC,20020,V101,homicide: non-police-involved,38,male,SE,S2937,10-07-2022,11-08-1990,31,homicide: non-police-involved,male
+2018,3,22,900,Olivet Road,Brentwood,5,Washington,DC,20002,V129,homicide: non-police-involved,52,male,NE,S427,3/22/2018,7/22/1981,36,homicide: non-police-involved,male
+2018,3,15,1500,Park Road,Columbia Heights,1,Washington,DC,20010,V138,homicide: non-police-involved,43,male,NW,S424,3/15/2018,8/25/1990,27,homicide: non-police-involved,male
+2021,10,1,200,53Rd Street,Deanwood,7,Washington,DC,20019,V146,homicide: non-police-involved,33,male,NE,S2613,2/23/2022,5/26/1992,29,homicide: non-police-involved,male
+2021,10,1,200,53Rd Street,Deanwood,7,Washington,DC,20019,V146,homicide: non-police-involved,33,male,NE,S2564,12/17/2021,3/18/1993,28,homicide: non-police-involved,male
+2021,1,21,4400,3Rd Street,Congress Heights,8,Washington,DC,20032,V161,homicide: non-police-involved,27,male,SE,S2209,05-07-2021,08-02-1985,35,homicide: non-police-involved,male
+2020,11,15,3100,16Th Street,Mt. Pleasant,1,Washington,DC,20010,V163,homicide: non-police-involved,38,male,NW,S1702,11/16/2020,10/31/1971,49,homicide: non-police-involved,male
+2021,9,21,3300,10Th Place,Congress Heights,8,Washington,DC,20032,V172,homicide: non-police-involved,41,female,SE,S2639,3/23/2022,6/14/1999,22,homicide: non-police-involved,male
+2022,12,29,2700,7Th Street,Brookland,5,Washington,DC,20017,V179,homicide: non-police-involved,50,male,NE,S2913,1/19/2023,09-10-1983,39,homicide: non-police-involved,male
+2022,12,29,2700,7Th Street,Brookland,5,Washington,DC,20017,V179,homicide: non-police-involved,50,male,NE,S2912,1/18/2023,1/15/1985,38,homicide: non-police-involved,male
+2018,9,25,6200,Eastern Avenue,Takoma Park,4,Washington,DC,20011,V193,homicide: non-police-involved,24,male,NE,S626,4/19/2019,07-02-1987,31,homicide: non-police-involved,male
+2021,11,28,3500,Minnesota Avenue,Fort Dupont Park,7,Washington,DC,20019,V198,homicide: non-police-involved,26,male,SE,S2586,1/25/2022,1/22/1997,25,homicide: non-police-involved,male
+2021,11,28,3500,Minnesota Avenue,Fort Dupont Park,7,Washington,DC,20019,V198,homicide: non-police-involved,26,male,SE,S2554,12-03-2021,01-08-1997,24,homicide: non-police-involved,male
+2023,8,4,2500,Pomeroy Road,Barry Farms,8,Washington,DC,20020,V216,homicide: non-police-involved,42,male,SE,S3513,9/19/2023,04-04-1996,27,homicide: non-police-involved,male
+2020,9,26,2900,Avenue,Congress Heights,8,Washington,DC,20032,V220,homicide: non-police-involved,25,male,SE,S1718,11/19/2020,10/19/1991,29,homicide: non-police-involved,male
+2020,9,26,2900,Avenue,Congress Heights,8,Washington,DC,20032,V220,homicide: non-police-involved,25,male,SE,S1613,10/20/2020,04-12-2002,18,homicide: non-police-involved,male
+2020,12,7,400,Xenia Street,Congress Heights,8,Washington,DC,20032,V226,homicide: non-police-involved,30,male,SE,S1893,1/14/2021,02-04-1992,28,homicide: non-police-involved,male
+2020,7,17,100,Walnut Street,Takoma Park,4,Washington,DC,20012,V233,homicide: non-police-involved,20,male,NW,S1451,8/21/2020,9/19/2003,16,homicide: non-police-involved,male
+2022,3,14,700,13Th Street,Old City 1,6,Washington,DC,20003,V256,homicide: non-police-involved,22,male,SE,S3777,04-06-2022,7/30/1994,27,homicide: non-police-involved,male
+2022,3,14,700,13Th Street,Old City 1,6,Washington,DC,20003,V256,homicide: non-police-involved,22,male,SE,S2648,04-06-2022,7/30/1994,27,homicide: non-police-involved,male
+2023,8,6,1200,Capitol Street,Old City 2,6,Washington,DC,20002,V274,homicide: non-police-involved,28,male,NW,S3369,8/24/2023,2/19/1980,43,homicide: non-police-involved,male
+2018,10,20,900,5Th Street,Old City 1,6,Washington,DC,20003,V287,homicide: non-police-involved,19,male,SE,S531,11/29/2018,11/29/1998,20,homicide: non-police-involved,male
+2020,7,4,1500,Pennsylvania Avenue,Old City 1,6,Washington,DC,20003,V291,homicide: non-police-involved,36,male,SE,S1334,07-08-2020,4/19/2002,18,homicide: non-police-involved,male
+2022,5,8,2800,Hartford Street,Randle Heights,8,Washington,DC,20020,V293,homicide: non-police-involved,22,male,SE,S2676,05-10-2022,02-10-1987,35,homicide: non-police-involved,male
+2022,3,14,700,13Th Street,Old City 1,6,Washington,DC,20003,V319,homicide: non-police-involved,62,male,SE,S3777,04-06-2022,7/30/1994,27,homicide: non-police-involved,male
+2022,3,14,700,13Th Street,Old City 1,6,Washington,DC,20003,V319,homicide: non-police-involved,62,male,SE,S2648,04-06-2022,7/30/1994,27,homicide: non-police-involved,male
+2023,5,14,3700,Hayes Street,Lily Ponds,7,Washington,DC,20019,V338,homicide: non-police-involved,10,female,NE,S3879,03-06-2024,1/28/1999,25,homicide: non-police-involved,male
+2023,5,14,3700,Hayes Street,Lily Ponds,7,Washington,DC,20019,V338,homicide: non-police-involved,10,female,NE,S3673,1/23/2024,07-12-2004,19,homicide: non-police-involved,male
+2023,5,14,3700,Hayes Street,Lily Ponds,7,Washington,DC,20019,V338,homicide: non-police-involved,10,female,NE,S3512,9/18/2023,1/30/2004,19,homicide: non-police-involved,male
+2019,6,16,4300,4Th Street,Congress Heights,8,Washington,DC,20032,V340,homicide: non-police-involved,30,male,SE,S1852,12/31/2020,9/20/1994,26,homicide: non-police-involved,male
+2022,3,3,1700,Gales Street,Old City 1,6,Washington,DC,20002,V351,homicide: non-police-involved,44,male,NE,S2712,6/27/2022,1/27/1999,23,homicide: non-police-involved,male
+2020,10,1,6200,8Th Street,Brightwood,4,Washington,DC,20011,V355,homicide: non-police-involved,42,male,NW,S2617,2/28/2022,3/20/2004,17,homicide: non-police-involved,male
+2022,7,19,2900,Knox Place,Randle Heights,8,Washington,DC,20020,V374,homicide: police-involved,33,female,SE,S18,8/29/2022,11/18/1987,34,homicide: police-involved,male
+2019,4,17,5100,Southern Avenue,Marshall Heights,7,Washington,DC,20019,V394,homicide: non-police-involved,57,male,SE,S639,4/30/2019,11-06-1989,29,homicide: non-police-involved,male
+2019,6,28,2400,14Th Street,Brentwood,5,Washington,DC,20018,V410,homicide: non-police-involved,25,male,NE,S700,07-10-2019,5/14/1987,32,homicide: non-police-involved,male
+2020,3,29,900,Eastern Avenue,Deanwood,7,Washington,DC,20019,V424,homicide: non-police-involved,81,male,NE,S1525,9/22/2020,4/25/1970,50,homicide: non-police-involved,male
+2021,9,18,1300,Nicholson Street,16th Street Heights,4,Washington,DC,20011,V443,homicide: non-police-involved,17,male,NW,S2583,1/19/2022,10/24/1992,29,homicide: non-police-involved,male
+2023,5,28,300,M Street,Southwest Waterfront,6,Washington,DC,20024,V447,homicide: non-police-involved,17,male,SW,S3123,06-09-2023,4/29/2000,23,homicide: non-police-involved,male
+2021,1,31,1100,Bellevue Street,Congress Heights,8,Washington,DC,20032,V449,homicide: non-police-involved,30,female,SE,S2158,04-02-2021,10-10-1977,43,homicide: non-police-involved,male
+2021,5,27,100,Sheridan Street,Takoma Park,4,Washington,DC,20011,V454,homicide: non-police-involved,39,male,NE,S2312,6/23/2021,8/18/1982,38,homicide: non-police-involved,male
+2022,8,9,100,Irvington Street,Congress Heights,8,Washington,DC,20032,V458,homicide: non-police-involved,20,male,SW,S3343,08-04-2023,7/20/2004,19,homicide: non-police-involved,female
+2022,8,9,100,Irvington Street,Congress Heights,8,Washington,DC,20032,V458,homicide: non-police-involved,20,male,SW,S3342,08-04-2023,5/28/2004,19,homicide: non-police-involved,male
+2021,9,18,1300,Nicholson Street,16th Street Heights,4,Washington,DC,20011,V469,homicide: non-police-involved,17,male,NW,S2583,1/19/2022,10/24/1992,29,homicide: non-police-involved,male
+2021,8,31,5000,1St Street,Petworth,4,Washington,DC,20011,V472,homicide: non-police-involved,28,female,NW,S2477,9/21/2021,10-01-1996,24,homicide: non-police-involved,male
+2018,9,10,1900,Valley Terrace,Randle Heights,8,Washington,DC,20032,V479,homicide: non-police-involved,0,female,SE,S496,10-05-2018,04-10-1997,21,homicide: non-police-involved,male
+2021,2,20,1600,18Th Street,Anacostia,8,Washington,DC,20020,V487,homicide: non-police-involved,37,male,SE,S2468,09-10-2021,1/21/1986,35,homicide: non-police-involved,female
+2018,9,1,1500,T Street,Randle Heights,8,Washington,DC,20020,V508,homicide: non-police-involved,28,male,SE,S479,09-05-2018,04-10-1991,27,homicide: non-police-involved,male
+2018,3,16,3100,Vista Terrace,Randle Heights,8,Washington,DC,20020,V510,homicide: non-police-involved,25,male,SE,S460,6/27/2018,06-01-1993,25,homicide: non-police-involved,male
+2022,8,23,2300,Minnesota Avenue,Anacostia,8,Washington,DC,20020,V539,homicide: non-police-involved,24,male,SE,S3366,12/19/2022,1/31/2004,18,homicide: non-police-involved,male
+2023,7,9,700,Kenilworth Terrace,Lily Ponds,7,Washington,DC,20019,V562,homicide: non-police-involved,30,male,NE,S3253,7/21/2023,01-05-2005,18,homicide: non-police-involved,male
+2022,5,29,1900,9Th Street,Old City 2,1,Washington,DC,20001,V567,homicide: non-police-involved,46,male,NW,S2694,06-01-2022,7/28/1966,55,homicide: non-police-involved,male
+2023,5,15,3900,Avenue,Congress Heights,8,Washington,DC,20032,V604,homicide: non-police-involved,64,male,SW,S3098,5/16/2023,11/28/1991,31,homicide: non-police-involved,male
+2020,9,23,400,Southern Avenue,Congress Heights,8,Washington,DC,20032,V619,homicide: non-police-involved,30,male,SE,S1559,10-05-2020,12-04-1986,33,homicide: non-police-involved,male
+2020,9,21,3500,Jay Street,Lily Ponds,7,Washington,DC,20019,V625,homicide: non-police-involved,29,male,NE,S1626,10/24/2020,08-02-1997,23,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S3756,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S3755,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S3751,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S3750,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S2036,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V631,homicide: non-police-involved,56,female,SE,S1615,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,2,17,2100,I Street,Trinidad,5,Washington,DC,20002,V650,homicide: non-police-involved,31,male,NE,S1443,8/18/2020,5/28/1989,31,homicide: non-police-involved,male
+2018,10,9,3700,Minnesota Avenue,Deanwood,7,Washington,DC,20019,V666,homicide: non-police-involved,53,male,NE,S499,10-10-2018,5/26/1976,42,homicide: non-police-involved,male
+2021,10,31,2300,Green Street,Anacostia,8,Washington,DC,20020,V679,homicide: non-police-involved,32,female,SE,S2571,12/27/2021,07-09-1991,30,homicide: non-police-involved,male
+2022,8,14,3900,4Th Street,Congress Heights,8,Washington,DC,20032,V681,homicide: non-police-involved,41,female,SE,S2778,8/25/2022,10/26/1976,45,homicide: non-police-involved,female
+2022,7,9,3500,Hayes Street,Lily Ponds,7,Washington,DC,20019,V708,homicide: non-police-involved,17,male,NE,S2755,8/15/2022,04-12-2004,18,homicide: non-police-involved,male
+2022,7,9,3500,Hayes Street,Lily Ponds,7,Washington,DC,20019,V708,homicide: non-police-involved,17,male,NE,S2748,08-09-2022,2/23/2004,18,homicide: non-police-involved,male
+2021,10,25,4900,G Street,Marshall Heights,7,Washington,DC,20019,V711,homicide: non-police-involved,47,female,SE,S2517,10/26/2021,09-09-2000,21,homicide: non-police-involved,male
+2021,6,24,3600,22Nd Street,Randle Heights,8,Washington,DC,20020,V716,homicide: non-police-involved,27,male,SE,S2485,9/30/2021,06-08-1980,41,homicide: non-police-involved,male
+2018,9,24,2500,Bowen Road,Barry Farms,8,Washington,DC,20020,V720,homicide: non-police-involved,23,male,SE,S493,10-03-2018,8/26/2001,17,homicide: non-police-involved,male
+2022,4,16,1200,Southern Avenue,Congress Heights,8,Washington,DC,20032,V778,homicide: non-police-involved,28,male,SE,S2705,6/16/2022,7/22/1993,28,homicide: non-police-involved,male
+2022,1,27,4400,Connecticut Avenue,Forest Hills,3,Washington,DC,20008,V791,homicide: non-police-involved,20,female,NW,S2605,02-11-2022,2/25/2003,18,homicide: non-police-involved,male
+2019,1,15,1200,Capitol Street,Old City 2,6,Washington,DC,20002,V793,homicide: non-police-involved,22,male,NW,S587,2/26/2019,12/18/1996,22,homicide: non-police-involved,male
+2022,3,9,1100,Alabama Avenue,Congress Heights,8,Washington,DC,20032,V807,homicide: non-police-involved,65,male,SE,S2629,03-09-2022,03-01-1994,28,homicide: non-police-involved,male
+2020,9,4,2100,Young Street,Anacostia,8,Washington,DC,20020,V811,homicide: non-police-involved,45,male,SE,S1495,09-11-2020,3/14/1991,29,homicide: non-police-involved,male
+2021,11,14,2000,Bruce Place,Randle Heights,8,Washington,DC,20020,V834,homicide: non-police-involved,52,male,SE,S2596,02-03-2022,9/25/1988,33,homicide: non-police-involved,male
+2021,12,10,2300,4Th Street,Edgewood,5,Washington,DC,20002,V839,homicide: non-police-involved,34,male,NE,S2627,03-09-2022,3/29/1977,44,homicide: non-police-involved,male
+2023,10,16,1500,Maryland Avenue,Trinidad,5,Washington,DC,20002,V843,homicide: non-police-involved,28,male,NE,S3640,12/27/2023,05-06-1995,28,homicide: non-police-involved,male
+2022,5,4,2300,Green Street,Anacostia,8,Washington,DC,20020,V846,homicide: non-police-involved,24,male,SE,S2684,5/17/2022,3/14/1991,31,homicide: non-police-involved,male
+2022,10,17,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V850,homicide: non-police-involved,19,male,SE,S3790,1/23/2023,3/28/2003,19,homicide: non-police-involved,male
+2022,10,17,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V850,homicide: non-police-involved,19,male,SE,S2935,1/23/2023,3/28/2003,19,homicide: non-police-involved,male
+2021,11,22,4700,Capitol Street,Congress Heights,8,Washington,DC,20032,V853,homicide: non-police-involved,30,male,SE,S2567,12/20/2021,12/29/2000,20,homicide: non-police-involved,male
+2021,9,10,100,Kennedy Street,Chillum,4,Washington,DC,20011,V904,homicide: non-police-involved,31,male,NW,S2572,12/28/2021,11-11-1977,44,homicide: non-police-involved,male
+2021,6,11,4600,Hillside Road,Fort Dupont Park,7,Washington,DC,20019,V906,homicide: non-police-involved,28,male,SE,S2527,11-10-2021,2/21/1990,31,homicide: non-police-involved,male
+2021,11,3,2800,14Th Street,Columbia Heights,1,Washington,DC,20009,V907,homicide: non-police-involved,34,male,NW,S3797,3/29/2023,01-05-2000,23,homicide: non-police-involved,male
+2021,11,3,2800,14Th Street,Columbia Heights,1,Washington,DC,20009,V907,homicide: non-police-involved,34,male,NW,S3793,2/27/2023,12/15/1997,25,non-fatal shooting,male
+2021,11,3,2800,14Th Street,Columbia Heights,1,Washington,DC,20009,V907,homicide: non-police-involved,34,male,NW,S2962,3/29/2023,01-05-2000,23,non-fatal shooting,male
+2021,11,3,2800,14Th Street,Columbia Heights,1,Washington,DC,20009,V907,homicide: non-police-involved,34,male,NW,S2950,2/27/2023,12/15/1997,25,homicide: non-police-involved,male
+2020,11,29,4500,Benning Road,Fort Dupont Park,7,Washington,DC,20019,V916,homicide: non-police-involved,23,male,SE,S3753,12-04-2020,7/27/1993,27,homicide: non-police-involved,male
+2020,11,3,4500,Dix Street,Deanwood,7,Washington,DC,20019,V921,homicide: non-police-involved,34,male,NE,S1755,12-04-2020,7/27/1993,27,homicide: non-police-involved,male
+2020,11,6,1700,Gales Street,Old City 1,6,Washington,DC,20002,V925,homicide: non-police-involved,41,male,NE,S1690,11-12-2020,9/24/1980,40,homicide: non-police-involved,male
+2018,8,8,4400,Livingston Road,Congress Heights,8,Washington,DC,20032,V934,homicide: non-police-involved,44,male,SE,S523,11/21/2018,06-10-1994,24,homicide: non-police-involved,male
+2018,1,20,4700,Benning Road,Marshall Heights,7,Washington,DC,20019,V941,homicide: non-police-involved,29,male,SE,S686,6/20/2019,8/26/1999,19,homicide: non-police-involved,male
+2018,1,20,4700,Benning Road,Marshall Heights,7,Washington,DC,20019,V941,homicide: non-police-involved,29,male,SE,S621,04-09-2019,2/20/1997,22,homicide: non-police-involved,male
+2018,1,20,4700,Benning Road,Marshall Heights,7,Washington,DC,20019,V941,homicide: non-police-involved,29,male,SE,S459,6/27/2018,4/14/1996,22,homicide: non-police-involved,male
+2018,1,20,4700,Benning Road,Marshall Heights,7,Washington,DC,20019,V941,homicide: non-police-involved,29,male,SE,S413,2/28/2018,09-10-1991,26,homicide: non-police-involved,male
+2022,7,1,800,Yuma Street,Congress Heights,8,Washington,DC,20032,V942,homicide: non-police-involved,17,male,SE,S2846,10/25/2022,10/30/2002,19,homicide: non-police-involved,male
+2022,2,21,5000,Burroughs Avenue,Deanwood,7,Washington,DC,20019,V944,homicide: non-police-involved,80,male,NE,S2731,7/20/2022,02-09-1960,62,homicide: non-police-involved,male
+2021,3,20,1200,Southern Avenue,Congress Heights,8,Washington,DC,20032,V952,homicide: non-police-involved,23,male,SE,S2455,09-03-2021,11/15/1982,38,homicide: non-police-involved,male
+2018,3,2,3200,Wheeler Road,Congress Heights,8,Washington,DC,20032,V955,homicide: non-police-involved,42,male,SE,S417,03-03-2018,2/24/1981,37,homicide: non-police-involved,male
+2018,12,22,5100,B Street,Marshall Heights,7,Washington,DC,20019,V957,homicide: non-police-involved,46,male,SE,S547,12/22/2018,08-11-1969,49,homicide: non-police-involved,male
+2023,5,29,3900,4Th Street,Congress Heights,8,Washington,DC,20032,V959,homicide: non-police-involved,64,male,SE,S3222,5/30/2023,4/27/1974,49,homicide: non-police-involved,female
+2019,10,17,4200,6Th Street,Congress Heights,8,Washington,DC,20032,V963,homicide: non-police-involved,27,male,SE,S1530,9/24/2020,9/20/1994,26,homicide: non-police-involved,male
+2020,8,28,200,11Th Street,Old City 1,6,Washington,DC,20002,V964,homicide: non-police-involved,43,male,NE,S1465,8/28/2020,5/16/1968,52,homicide: non-police-involved,male
+2018,3,17,3000,Stanton Road,Barry Farms,8,Washington,DC,20020,V965,homicide: non-police-involved,22,male,SE,S2018,2/17/2021,02-07-1995,26,homicide: non-police-involved,male
+2022,5,10,700,18Th Street,Trinidad,5,Washington,DC,20002,V973,homicide: non-police-involved,30,female,NE,S2696,06-03-2022,01-10-2002,20,homicide: non-police-involved,male
+2018,5,1,1300,2Nd Street,NoMa,6,Washington,DC,20002,V995,homicide: non-police-involved,16,male,NE,S446,5/22/2018,12/27/1999,18,homicide: non-police-involved,male
+2018,5,1,1300,2Nd Street,NoMa,6,Washington,DC,20002,V995,homicide: non-police-involved,16,male,NE,S445,5/22/2018,12/18/2001,16,homicide: non-police-involved,male
+2023,5,11,2300,Pennsylvania Avenue,Anacostia,7,Washington,DC,20020,V1001,homicide: non-police-involved,30,male,SE,S3118,06-06-2023,3/30/1986,37,homicide: non-police-involved,male
+2020,12,4,700,Morton Street,Columbia Heights,1,Washington,DC,20010,V1005,homicide: non-police-involved,25,male,NW,S1585,10-10-2020,3/18/1988,32,homicide: non-police-involved,male
+2021,1,26,1300,Brentwood Road,Brookland,5,Washington,DC,20018,V1007,homicide: non-police-involved,22,male,NE,S2164,04-06-2021,12-09-1984,36,homicide: non-police-involved,male
+2021,2,16,300,33Rd Street,Fort Dupont Park,7,Washington,DC,20019,V1012,homicide: non-police-involved,22,male,SE,S2175,4/15/2021,08-07-1979,41,homicide: non-police-involved,male
+2018,5,23,600,7Th Street,Central-tri 3,2,Washington,DC,20004,V1019,homicide: non-police-involved,26,male,NW,S447,5/24/2018,12/19/1993,24,homicide: non-police-involved,male
+2018,6,6,2100,H Street,Trinidad,5,Washington,DC,20002,V1030,homicide: non-police-involved,53,male,NE,S454,06-08-2018,11/13/1971,46,homicide: non-police-involved,male
+2022,1,4,3300,12Th Street,Congress Heights,8,Washington,DC,20032,V1031,homicide: non-police-involved,18,male,SE,S2638,3/22/2022,3/31/2003,18,homicide: non-police-involved,male
+2018,12,18,1700,Virginia Avenue,Trinidad,5,Washington,DC,20002,V1049,homicide: non-police-involved,25,male,NE,S878,12-11-2019,08-06-1997,22,homicide: non-police-involved,male
+2018,7,24,800,R Street,Old City 2,6,Washington,DC,20001,V1062,homicide: non-police-involved,46,male,NW,S1006,02-11-2020,10-09-1980,39,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3774,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3773,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3769,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3768,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3765,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S3764,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S2582,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S2503,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1064,homicide: non-police-involved,31,female,NW,S2497,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,4,4,1800,24Th Street,Woodridge,5,Washington,DC,20002,V1069,homicide: non-police-involved,33,male,NE,S2227,5/13/2021,3/21/1987,34,homicide: non-police-involved,male
+2022,4,6,4800,Capitol Street,Brookland,5,Washington,DC,20011,V1073,homicide: non-police-involved,41,male,NE,S2647,04-06-2022,11/16/1996,25,homicide: non-police-involved,male
+2018,8,30,1600,Kennilworth Avenue,Lily Ponds,7,Washington,DC,20019,V1077,homicide: non-police-involved,51,female,NE,S571,1/29/2019,12/16/1998,20,homicide: non-police-involved,male
+2018,9,9,2800,Stanton Road,Barry Farms,8,Washington,DC,20020,V1080,homicide: non-police-involved,18,male,SE,S490,10-01-2018,10/25/2000,17,homicide: non-police-involved,male
+2018,9,9,3100,16Th Street,Mt. Pleasant,1,Washington,DC,20010,V1081,homicide: non-police-involved,37,male,NW,S481,09-09-2018,2/23/1974,44,homicide: non-police-involved,male
+2018,9,12,1500,18Th Street,Anacostia,8,Washington,DC,20020,V1084,homicide: non-police-involved,37,female,SE,S487,9/25/2018,10/24/1962,55,homicide: non-police-involved,male
+2018,9,18,1400,11Th Street,Old City 1,2,Washington,DC,20001,V1086,homicide: non-police-involved,35,female,NW,S484,9/20/2018,08-04-1995,23,homicide: non-police-involved,male
+2021,4,12,2300,Hope Court,Randle Heights,8,Washington,DC,20020,V1095,homicide: non-police-involved,32,female,SE,S3757,4/16/2021,04-03-1989,32,homicide: non-police-involved,male
+2021,4,12,2300,Hope Court,Randle Heights,8,Washington,DC,20020,V1095,homicide: non-police-involved,32,female,SE,S2179,4/16/2021,04-03-1989,32,homicide: non-police-involved,male
+2018,9,23,1400,Howard Road,Barry Farms,8,Washington,DC,20020,V1096,homicide: non-police-involved,28,male,SE,S500,10-10-2018,01-08-1992,26,homicide: non-police-involved,male
+2018,9,24,1200,Constitution Avenue,Mall/East Potomac Park,2,Washington,DC,20460,V1100,homicide: non-police-involved,64,male,NW,S502,10-12-2018,12/27/1997,20,homicide: non-police-involved,male
+2018,9,24,1800,Benning Road,Old City 1,6,Washington,DC,20002,V1102,homicide: non-police-involved,25,male,NE,S538,12-10-2018,07-06-1996,22,homicide: non-police-involved,male
+2022,1,25,3700,Georgia Avenue,Columbia Heights,4,Washington,DC,20010,V1103,homicide: non-police-involved,58,male,NW,S2728,7/15/2022,8/19/1987,34,homicide: non-police-involved,male
+2018,10,5,300,15Th Street,Old City 1,6,Washington,DC,20003,V1108,homicide: non-police-involved,32,male,NE,S497,10-05-2018,11/26/1992,25,homicide: non-police-involved,male
+2018,10,6,2000,Avenue,Anacostia,8,Washington,DC,20020,V1110,homicide: non-police-involved,26,male,SE,S515,11/14/2018,7/21/1990,28,homicide: non-police-involved,male
+2020,11,26,2900,Connecticut Avenue,Garfield,3,Washington,DC,20008,V1111,homicide: non-police-involved,39,male,NW,S1775,12-09-2020,10/28/1993,27,homicide: non-police-involved,male
+2018,10,7,1300,Hope Road,Anacostia,8,Washington,DC,20020,V1112,homicide: non-police-involved,30,male,SE,S503,10/15/2018,09-06-2002,16,homicide: non-police-involved,male
+2021,2,12,2100,36Th Place,Hillcrest,7,Washington,DC,20020,V1113,homicide: non-police-involved,60,male,SE,S1993,02-12-2021,04-04-1996,24,homicide: non-police-involved,male
+2021,1,25,1400,Hope Road,Anacostia,8,Washington,DC,20020,V1115,homicide: non-police-involved,22,male,SE,S2124,3/22/2021,7/18/2003,17,homicide: non-police-involved,male
+2021,1,25,1400,Hope Road,Anacostia,8,Washington,DC,20020,V1115,homicide: non-police-involved,22,male,SE,S1927,1/25/2021,04-06-1999,21,homicide: non-police-involved,male
+2018,10,11,3200,12Th Street,Congress Heights,8,Washington,DC,20032,V1116,homicide: non-police-involved,27,male,SE,S509,10/31/2018,06-07-2000,18,homicide: non-police-involved,male
+2019,4,5,2900,Avenue,Congress Heights,8,Washington,DC,20032,V1117,homicide: non-police-involved,49,male,SE,S634,4/24/2019,01-07-1993,26,homicide: non-police-involved,male
+2019,4,5,2900,Avenue,Congress Heights,8,Washington,DC,20032,V1117,homicide: non-police-involved,49,male,SE,S633,4/23/2019,06-08-2000,18,homicide: non-police-involved,male
+2018,10,19,4700,Capitol Street,Congress Heights,8,Washington,DC,20032,V1123,homicide: non-police-involved,32,male,SW,S504,10/19/2018,7/21/1976,42,homicide: non-police-involved,male
+2018,10,20,3500,Wheeler Road,Congress Heights,8,Washington,DC,20032,V1125,homicide: non-police-involved,19,male,SE,S877,12-11-2019,1/17/2000,19,homicide: non-police-involved,male
+2018,10,20,3500,Wheeler Road,Congress Heights,8,Washington,DC,20032,V1125,homicide: non-police-involved,19,male,SE,S865,12-06-2019,5/23/1993,26,homicide: non-police-involved,male
+2018,10,24,1200,17Th Street,Trinidad,5,Washington,DC,20002,V1129,homicide: non-police-involved,22,male,NE,S550,12/28/2018,02-08-1996,22,homicide: non-police-involved,male
+2018,11,3,900,Brentwood Road,Brentwood,5,Washington,DC,20018,V1138,homicide: non-police-involved,68,male,NE,S527,11/26/2018,1/28/1986,32,homicide: non-police-involved,male
+2018,11,8,1500,Benning Road,Trinidad,5,Washington,DC,20002,V1143,homicide: non-police-involved,38,male,NE,S524,11/21/2018,11/21/1990,28,homicide: non-police-involved,male
+2018,11,8,1500,Benning Road,Trinidad,5,Washington,DC,20002,V1143,homicide: non-police-involved,38,male,NE,S513,11-09-2018,08-02-1989,29,homicide: non-police-involved,male
+2018,11,26,1800,Benning Road,Old City 1,6,Washington,DC,20002,V1146,homicide: non-police-involved,20,male,NE,S543,12/18/2018,12/16/1998,20,homicide: non-police-involved,male
+2018,12,1,800,Taylor Street,Brookland,5,Washington,DC,20017,V1154,homicide: non-police-involved,37,male,NE,S618,04-08-2019,3/26/1985,34,homicide: non-police-involved,male
+2020,12,30,4600,Benning Road,Marshall Heights,7,Washington,DC,20019,V1155,homicide: non-police-involved,35,female,SE,S1847,12/30/2020,4/29/1966,54,homicide: non-police-involved,male
+2018,12,10,2500,Elvans Road,Barry Farms,8,Washington,DC,20020,V1160,homicide: non-police-involved,37,male,SE,S589,2/28/2019,03-11-1980,38,homicide: non-police-involved,male
+2018,12,13,2900,Knox Place,Randle Heights,8,Washington,DC,20020,V1161,homicide: non-police-involved,15,male,SE,S542,12/18/2018,02-03-2002,16,homicide: non-police-involved,male
+2020,10,9,2400,Elvans Road,Barry Farms,8,Washington,DC,20020,V1167,homicide: non-police-involved,41,male,SE,S1845,12/30/2020,2/21/1993,27,homicide: non-police-involved,male
+2021,3,28,4200,6Th Street,Congress Heights,8,Washington,DC,20032,V1170,homicide: non-police-involved,34,male,SE,S2195,4/27/2021,10-01-1997,23,homicide: non-police-involved,male
+2019,1,12,1700,Benning Road,Trinidad,5,Washington,DC,20002,V1178,homicide: non-police-involved,21,male,NE,S688,6/26/2019,10/18/1993,25,homicide: non-police-involved,male
+2019,1,12,1700,Benning Road,Trinidad,5,Washington,DC,20002,V1178,homicide: non-police-involved,21,male,NE,S687,6/26/2019,6/14/1997,22,homicide: non-police-involved,male
+2019,1,12,1700,Benning Road,Trinidad,5,Washington,DC,20002,V1178,homicide: non-police-involved,21,male,NE,S575,02-08-2019,4/30/1998,20,homicide: non-police-involved,male
+2019,1,12,1700,Benning Road,Trinidad,5,Washington,DC,20002,V1178,homicide: non-police-involved,21,male,NE,S566,1/23/2019,02-11-1997,21,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S3740,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S3739,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S3737,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S3736,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S825,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1186,homicide: non-police-involved,26,male,SE,S675,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S3740,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S3739,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S3737,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S3736,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S825,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1188,homicide: non-police-involved,26,male,SE,S675,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,8,18,700,Kennedy Street,Petworth,4,Washington,DC,20011,V1189,homicide: non-police-involved,40,male,NW,S945,1/13/2020,2/15/1958,61,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S3740,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S3739,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S3737,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S3736,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S825,11/14/2019,01-12-1991,28,homicide: non-police-involved,male
+2019,1,26,1500,Davis Place,Fort Dupont Park,7,Washington,DC,20020,V1190,homicide: non-police-involved,24,male,SE,S675,06-11-2019,07-01-1989,29,homicide: non-police-involved,male
+2020,11,7,3300,Water Street,Georgetown,2,Washington,DC,20007,V1200,homicide: non-police-involved,19,male,NW,S2184,4/19/2021,07-09-2000,20,homicide: non-police-involved,male
+2020,4,1,900,Division Avenue,Deanwood,7,Washington,DC,20019,V1204,homicide: non-police-involved,2,male,NE,S1664,11-04-2020,8/19/1989,31,homicide: non-police-involved,female
+2020,4,1,900,Division Avenue,Deanwood,7,Washington,DC,20019,V1204,homicide: non-police-involved,2,male,NE,S1663,11-04-2020,5/23/1992,28,homicide: non-police-involved,male
+2020,7,12,3300,15Th Street,Randle Heights,8,Washington,DC,20032,V1212,homicide: non-police-involved,34,male,SE,S1603,10/15/2020,10/31/1985,34,homicide: non-police-involved,male
+2021,2,19,6000,Chillum Place,Takoma Park,4,Washington,DC,20011,V1213,homicide: non-police-involved,60,male,NE,S2067,03-04-2021,5/13/1954,66,homicide: non-police-involved,male
+2021,3,31,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1218,homicide: non-police-involved,25,male,SE,S2197,4/28/2021,08-01-1995,25,homicide: non-police-involved,male
+2021,5,10,2600,Avenue,Barry Farms,8,Washington,DC,20020,V1228,homicide: non-police-involved,47,female,SE,S2219,05-10-2021,5/27/1968,52,homicide: non-police-involved,male
+2022,1,27,4400,E Street,Fort Dupont Park,7,Washington,DC,20019,V1263,homicide: non-police-involved,17,male,SE,S2589,1/27/2022,7/22/1995,26,homicide: non-police-involved,female
+2021,1,6,1300,9Th Street,Old City 1,6,Washington,DC,20001,V1271,homicide: non-police-involved,20,male,NW,S2057,03-02-2021,06-04-2002,18,homicide: non-police-involved,male
+2021,6,11,1600,Franklin Street,Woodridge,5,Washington,DC,20018,V1277,homicide: non-police-involved,30,male,NE,S2314,6/24/2021,1/24/1984,37,homicide: non-police-involved,male
+2019,7,29,3100,Avenue,Congress Heights,8,Washington,DC,20032,V1278,homicide: non-police-involved,33,male,SE,S720,7/29/2019,10-05-1984,34,homicide: non-police-involved,male
+2021,2,6,4100,Minnesota Avenue,Deanwood,7,Washington,DC,20019,V1281,homicide: non-police-involved,30,male,NE,S1987,02-09-2021,8/13/1995,25,homicide: non-police-involved,male
+2022,6,15,3900,Minnesota Avenue,Deanwood,7,Washington,DC,20019,V1286,homicide: non-police-involved,30,male,NE,S2721,07-11-2022,4/26/2001,21,homicide: non-police-involved,male
+2019,8,17,1500,18Th Street,Anacostia,8,Washington,DC,20020,V1289,homicide: non-police-involved,28,male,SE,S3741,11/18/2019,11/17/1993,26,homicide: non-police-involved,male
+2019,8,17,1500,18Th Street,Anacostia,8,Washington,DC,20020,V1289,homicide: non-police-involved,28,male,SE,S1155,4/29/2020,11/17/1993,26,homicide: non-police-involved,male
+2022,3,17,4100,Capitol Terrace,Congress Heights,8,Washington,DC,20032,V1291,homicide: non-police-involved,20,male,SW,S2810,9/19/2022,12/31/2002,19,homicide: non-police-involved,male
+2019,8,20,700,Kennedy Street,Petworth,4,Washington,DC,20011,V1292,homicide: non-police-involved,9,male,NW,S3744,1/13/2020,2/15/1958,61,homicide: non-police-involved,male
+2023,6,30,700,H Street,Old City 1,6,Washington,DC,20002,V1296,non-fatal shooting,35,male,NE,S3159,6/30/2023,1/29/1998,25,non-fatal shooting,male
+2020,11,4,100,Michigan Avenue,Brookland,5,Washington,DC,20017,V1308,homicide: non-police-involved,23,male,NE,S1807,12/18/2020,10/23/1998,22,homicide: non-police-involved,male
+2020,11,5,600,Lamont Street,Columbia Heights,1,Washington,DC,20010,V1321,homicide: non-police-involved,36,male,NW,S1689,11-12-2020,06-08-1980,40,homicide: non-police-involved,male
+2023,1,15,200,37Th Street,Fort Dupont Park,7,Washington,DC,20019,V1328,homicide: non-police-involved,53,male,SE,S2910,1/16/2023,8/15/1977,45,homicide: non-police-involved,male
+2022,5,10,2600,Stanton Road,Barry Farms,8,Washington,DC,20020,V1331,homicide: non-police-involved,38,male,SE,S2691,5/30/2022,07-05-2002,19,homicide: non-police-involved,male
+2019,12,20,400,42Nd Street,Deanwood,7,Washington,DC,20019,V1351,homicide: non-police-involved,28,female,NE,S925,01-02-2020,02-12-1976,43,homicide: non-police-involved,male
+2022,6,25,1700,Virginia Avenue,Trinidad,5,Washington,DC,20002,V1373,homicide: non-police-involved,45,male,NE,S2754,8/15/2022,5/30/2003,19,homicide: non-police-involved,male
+2020,5,19,2400,Avenue,Barry Farms,8,Washington,DC,20020,V1375,homicide: non-police-involved,20,male,SE,S3746,6/18/2020,03-10-2004,16,homicide: non-police-involved,male
+2020,5,19,2400,Avenue,Barry Farms,8,Washington,DC,20020,V1375,homicide: non-police-involved,20,male,SE,S1288,6/18/2020,03-10-2004,16,homicide: non-police-involved,male
+2020,2,6,1600,York Avenue,Brentwood,5,Washington,DC,20002,V1378,homicide: non-police-involved,0,female,NE,S1760,12-05-2020,1/29/1993,27,homicide: non-police-involved,female
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S3847,09-08-2023,1/26/1991,32,non-fatal shooting,male
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S3846,09-08-2023,1/26/1991,32,non-fatal shooting,male
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S3799,3/21/2023,8/17/1989,33,non-fatal shooting,male
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S3798,3/21/2023,8/17/1989,33,non-fatal shooting,male
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S3441,09-08-2023,1/26/1991,32,homicide: non-police-involved,male
+2023,2,21,1400,Saratoga Avenue,Brentwood,5,Washington,DC,20018,V1383,homicide: non-police-involved,21,male,NE,S2975,3/21/2023,8/17/1989,33,homicide: non-police-involved,male
+2021,6,29,1400,R Street,Old City 2,2,Washington,DC,20009,V1398,homicide: non-police-involved,53,male,NW,S2544,11/29/2021,11/27/1995,26,homicide: non-police-involved,male
+2020,5,19,2400,Avenue,Barry Farms,8,Washington,DC,20020,V1419,homicide: non-police-involved,31,male,SE,S3746,6/18/2020,03-10-2004,16,homicide: non-police-involved,male
+2020,5,19,2400,Avenue,Barry Farms,8,Washington,DC,20020,V1419,homicide: non-police-involved,31,male,SE,S1288,6/18/2020,03-10-2004,16,homicide: non-police-involved,male
+2020,5,28,2900,N Street,Hillcrest,7,Washington,DC,20019,V1426,homicide: non-police-involved,26,female,SE,S1231,5/29/2020,2/13/1994,26,homicide: non-police-involved,male
+2020,6,1,5100,A Street,Marshall Heights,7,Washington,DC,20019,V1433,homicide: non-police-involved,56,male,SE,S1239,06-01-2020,01-04-1966,54,homicide: non-police-involved,male
+2020,9,30,3200,Hiatt Place,Columbia Heights,1,Washington,DC,20010,V1434,homicide: non-police-involved,33,male,NW,S2189,4/22/2021,1/14/1994,27,homicide: non-police-involved,male
+2020,9,30,3200,Hiatt Place,Columbia Heights,1,Washington,DC,20010,V1434,homicide: non-police-involved,33,male,NW,S1678,11-10-2020,5/13/1992,28,homicide: non-police-involved,male
+2020,6,11,4700,Jay Street,Deanwood,7,Washington,DC,20019,V1439,homicide: non-police-involved,32,male,NE,S2430,8/25/2021,9/30/1987,33,homicide: non-police-involved,male
+2023,3,9,1600,17Th Place,Anacostia,8,Washington,DC,20020,V1441,homicide: non-police-involved,34,male,SE,S2973,3/15/2023,5/26/1958,64,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3774,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3773,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3769,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3768,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3765,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S3764,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S2582,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S2503,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1445,homicide: non-police-involved,37,male,NW,S2497,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2020,7,1,1800,Q Street,Anacostia,8,Washington,DC,20020,V1451,homicide: non-police-involved,18,male,SE,S1574,10-08-2020,1/29/1999,21,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S3756,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S3755,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S3751,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S3750,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S2036,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1456,homicide: non-police-involved,29,male,SE,S1615,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S3756,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S3755,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S3751,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S3750,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S2036,2/24/2021,10/21/1976,44,homicide: non-police-involved,male
+2020,7,7,5000,Bass Place,Marshall Heights,7,Washington,DC,20019,V1457,homicide: non-police-involved,20,male,SE,S1615,10/21/2020,6/29/1987,33,homicide: non-police-involved,male
+2020,7,13,3900,Clay Place,Deanwood,7,Washington,DC,20019,V1466,homicide: non-police-involved,27,male,NE,S1417,08-12-2020,1/21/2000,20,homicide: non-police-involved,male
+2020,7,17,300,Massachusetts Avenue,Old City 2,6,Washington,DC,20001,V1472,homicide: non-police-involved,34,female,NW,S1373,7/23/2020,05-09-1965,55,homicide: non-police-involved,male
+2023,6,6,4700,Capitol Street,Congress Heights,8,Washington,DC,20032,V1476,homicide: non-police-involved,29,male,SW,S3255,7/24/2023,08-06-2001,21,homicide: non-police-involved,male
+2020,7,21,4100,14Th Street,Columbia Heights,4,Washington,DC,20011,V1477,homicide: non-police-involved,30,male,NW,S2752,08-10-2022,7/13/1999,23,homicide: non-police-involved,male
+2020,7,21,4100,14Th Street,Columbia Heights,4,Washington,DC,20011,V1477,homicide: non-police-involved,30,male,NW,S1659,11-03-2020,5/15/1998,22,homicide: non-police-involved,male
+2020,7,21,4100,14Th Street,Columbia Heights,4,Washington,DC,20011,V1477,homicide: non-police-involved,30,male,NW,S1634,10/27/2020,5/28/1999,21,homicide: non-police-involved,male
+2021,7,25,100,Q Street,Old City 2,5,Washington,DC,20001,V1478,homicide: non-police-involved,22,male,NW,S3772,12/13/2021,6/17/2001,20,homicide: non-police-involved,male
+2021,7,25,100,Q Street,Old City 2,5,Washington,DC,20001,V1478,homicide: non-police-involved,22,male,NW,S2561,12/13/2021,6/17/2001,20,homicide: non-police-involved,male
+2020,7,26,4200,7Th Street,Congress Heights,8,Washington,DC,20032,V1480,homicide: non-police-involved,23,male,SE,S1492,09-10-2020,02-12-2000,20,homicide: non-police-involved,male
+2020,8,6,600,46Th Place,Fort Dupont Park,7,Washington,DC,20019,V1484,homicide: non-police-involved,26,male,SE,S4,8/29/2022,01-04-2003,19,homicide: non-police-involved,male
+2021,4,3,300,18Th Street,Old City 1,6,Washington,DC,20002,V1486,homicide: non-police-involved,37,male,NE,S2222,05-11-2021,1/29/1978,43,homicide: non-police-involved,male
+2020,8,10,5500,9Th Street,Petworth,4,Washington,DC,20011,V1489,homicide: non-police-involved,17,male,NW,S2024,2/19/2021,3/20/2004,16,homicide: non-police-involved,male
+2020,8,10,5500,9Th Street,Petworth,4,Washington,DC,20011,V1489,homicide: non-police-involved,17,male,NW,S1972,02-06-2021,9/14/2003,17,homicide: non-police-involved,male
+2020,8,10,5500,9Th Street,Petworth,4,Washington,DC,20011,V1489,homicide: non-police-involved,17,male,NW,S1856,01-01-2021,06-02-2001,19,homicide: non-police-involved,male
+2020,8,12,1300,Missouri Avenue,16th Street Heights,4,Washington,DC,20011,V1491,homicide: non-police-involved,40,male,NW,S1446,8/19/2020,4/22/1977,43,homicide: non-police-involved,male
+2022,5,26,2200,Savannah Terrace,Randle Heights,8,Washington,DC,20020,V1494,homicide: non-police-involved,16,male,SE,S2711,6/26/2022,2/21/2004,18,homicide: non-police-involved,male
+2023,11,29,3900,Minnesota Avenue,Deanwood,7,Washington,DC,20019,V1497,non-fatal shooting,14,male,NE,S3609,12-06-2023,8/15/1972,51,non-fatal shooting,male
+2021,10,23,2800,Alabama Avenue,Hillcrest,7,Washington,DC,20020,V1503,homicide: non-police-involved,23,male,SE,S2508,10/24/2021,4/18/1997,24,homicide: non-police-involved,male
+2020,9,11,700,51St Street,Deanwood,7,Washington,DC,20019,V1511,homicide: non-police-involved,49,male,NE,S1499,09-12-2020,06-09-1991,29,homicide: non-police-involved,male
+2020,9,17,7000,Blair Road,Brightwood,4,Washington,DC,20012,V1513,homicide: non-police-involved,38,male,NW,S1630,10/25/2020,8/13/1986,34,homicide: non-police-involved,male
+2020,10,1,1700,Lang Place,Trinidad,5,Washington,DC,20002,V1523,homicide: non-police-involved,45,male,NE,S1620,10/23/2020,06-10-1956,64,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3774,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3773,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3769,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3768,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3765,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S3764,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S2582,1/18/2022,1/22/1997,24,homicide: non-police-involved,male
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S2503,10/18/2021,3/29/1972,49,homicide: non-police-involved,female
+2021,9,4,600,Longfellow Street,Petworth,4,Washington,DC,20011,V1524,homicide: non-police-involved,24,male,NW,S2497,10/13/2021,04-10-1997,24,homicide: non-police-involved,male
+2020,10,6,1100,45Th Street,Deanwood,7,Washington,DC,20019,V1525,homicide: non-police-involved,30,male,NE,S1878,01-11-2021,02-06-1999,21,homicide: non-police-involved,male
+2020,10,6,1100,45Th Street,Deanwood,7,Washington,DC,20019,V1525,homicide: non-police-involved,30,male,NE,S1646,10/30/2020,11/29/1996,23,homicide: non-police-involved,male
+2020,10,6,1100,45Th Street,Deanwood,7,Washington,DC,20019,V1525,homicide: non-police-involved,30,male,NE,S1639,10/29/2020,11-05-1992,27,homicide: non-police-involved,male
+2020,10,9,1600,W Street,Anacostia,8,Washington,DC,20020,V1527,homicide: non-police-involved,28,male,SE,S1789,12/14/2020,02-02-2000,20,homicide: non-police-involved,male
+2021,5,8,400,8Th Street,Capitol Hill,6,Washington,DC,20003,V1532,homicide: non-police-involved,29,male,SE,S2251,5/26/2021,8/31/1977,43,homicide: non-police-involved,male
+2020,10,11,2300,Green Street,Anacostia,8,Washington,DC,20020,V1534,homicide: non-police-involved,31,female,SE,S2700,06-09-2022,9/18/1992,29,homicide: non-police-involved,male
+2020,10,18,1400,Perry Place,Columbia Heights,1,Washington,DC,20010,V1539,homicide: non-police-involved,64,male,NW,S1655,11-02-2020,7/27/2000,20,homicide: non-police-involved,male
+2021,8,7,3000,Nelson Place,Hillcrest,7,Washington,DC,20019,V1542,homicide: non-police-involved,20,female,SE,S2393,08-08-2021,12/31/1998,22,homicide: non-police-involved,male
+2020,10,31,4400,Southern Avenue,Fort Dupont Park,7,Washington,DC,20019,V1545,homicide: non-police-involved,42,male,SE,S1681,11-11-2020,8/21/1986,34,homicide: non-police-involved,male
+2020,11,9,1400,Howard Road,Barry Farms,8,Washington,DC,20020,V1553,homicide: non-police-involved,25,male,SE,S1745,11/27/2020,10-04-1992,28,homicide: non-police-involved,male
+2020,11,14,1000,4Th Street,Southwest Waterfront,6,Washington,DC,20024,V1555,homicide: non-police-involved,44,male,SW,S1701,11/16/2020,4/25/1983,37,homicide: non-police-involved,female
+2022,3,14,1900,9Th Street,Old City 2,1,Washington,DC,20001,V1563,homicide: non-police-involved,42,male,NW,S2637,3/18/2022,06-01-1985,36,homicide: non-police-involved,male
+2021,10,26,1500,Ogden Street,Columbia Heights,1,Washington,DC,20010,V1565,homicide: non-police-involved,40,male,NW,S2547,12-02-2021,02-01-1984,37,homicide: non-police-involved,male
+2021,3,31,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1570,homicide: non-police-involved,28,female,SE,S2197,4/28/2021,08-01-1995,25,homicide: non-police-involved,male
+2021,4,15,3300,10Th Place,Congress Heights,8,Washington,DC,20032,V1573,homicide: non-police-involved,29,male,SE,S3760,7/22/2021,11-05-1999,21,homicide: non-police-involved,male
+2021,4,15,3300,10Th Place,Congress Heights,8,Washington,DC,20032,V1573,homicide: non-police-involved,29,male,SE,S2373,7/22/2021,11-05-1999,21,homicide: non-police-involved,male
+2021,4,15,3300,10Th Place,Congress Heights,8,Washington,DC,20032,V1574,homicide: non-police-involved,29,male,SE,S3760,7/22/2021,11-05-1999,21,homicide: non-police-involved,male
+2021,4,15,3300,10Th Place,Congress Heights,8,Washington,DC,20032,V1574,homicide: non-police-involved,29,male,SE,S2373,7/22/2021,11-05-1999,21,homicide: non-police-involved,male
+2020,12,11,1700,29Th Street,Hillcrest,7,Washington,DC,20020,V1577,homicide: non-police-involved,26,male,SE,S1815,12/20/2020,2/20/1994,26,homicide: non-police-involved,male
+2021,1,18,3000,Stanton Road,Barry Farms,8,Washington,DC,20020,V1584,homicide: non-police-involved,32,male,SE,S3754,2/17/2021,02-07-1995,26,homicide: non-police-involved,male
+2021,1,18,3000,Stanton Road,Barry Farms,8,Washington,DC,20020,V1584,homicide: non-police-involved,32,male,SE,S2017,2/17/2021,02-07-1995,26,homicide: non-police-involved,male
+2021,1,18,3000,Stanton Road,Barry Farms,8,Washington,DC,20020,V1584,homicide: non-police-involved,32,male,SE,S2016,2/17/2021,1/23/1998,23,homicide: non-police-involved,male
+2021,1,19,3800,Hayes Street,Lily Ponds,7,Washington,DC,20019,V1585,homicide: non-police-involved,32,male,NE,S2107,3/16/2021,8/20/1991,29,homicide: non-police-involved,male
+2023,8,19,2100,H Street,Trinidad,5,Washington,DC,20002,V1590,homicide: non-police-involved,34,male,NE,S3548,11-03-2023,11/18/2000,22,homicide: non-police-involved,male
+2023,6,15,200,K Street,Southwest Waterfront,6,Washington,DC,20024,V1601,homicide: non-police-involved,18,male,SW,S3390,8/29/2023,12/20/2003,19,homicide: non-police-involved,male
+2021,2,23,1100,Howard Road,Barry Farms,8,Washington,DC,20020,V1607,homicide: non-police-involved,49,male,SE,S2117,3/19/2021,10/13/1994,26,homicide: non-police-involved,male
+2021,5,7,1500,Benning Road,Trinidad,5,Washington,DC,20002,V1611,homicide: non-police-involved,0,male,NE,S2229,5/14/2021,08-12-1983,37,homicide: non-police-involved,female
+2021,3,13,600,O Street,Shaw,6,Washington,DC,20001,V1612,homicide: non-police-involved,29,male,NW,S2192,4/23/2021,2/23/1995,26,homicide: non-police-involved,male
+2022,4,27,1500,Benning Road,Trinidad,5,Washington,DC,20002,V1614,homicide: non-police-involved,39,female,NE,S2663,4/27/2022,8/24/1977,44,homicide: non-police-involved,male
+2023,8,24,3600,16Th Street,Mt. Pleasant,1,Washington,DC,20010,V1625,homicide: non-police-involved,27,male,NW,S3420,09-07-2023,9/26/1978,44,homicide: non-police-involved,female
+2021,11,25,1600,Kennilworth Avenue,Lily Ponds,7,Washington,DC,20019,V1629,homicide: non-police-involved,25,male,NE,S2563,12/15/2021,8/20/1990,31,homicide: non-police-involved,male
+2021,4,12,2300,Hope Court,Randle Heights,8,Washington,DC,20020,V1630,homicide: non-police-involved,48,female,SE,S3757,4/16/2021,04-03-1989,32,homicide: non-police-involved,male
+2021,4,12,2300,Hope Court,Randle Heights,8,Washington,DC,20020,V1630,homicide: non-police-involved,48,female,SE,S2179,4/16/2021,04-03-1989,32,homicide: non-police-involved,male
+2021,11,24,2300,Chester Street,Anacostia,8,Washington,DC,20020,V1633,homicide: non-police-involved,1,male,SE,S2765,8/23/2022,12/31/1998,23,homicide: non-police-involved,male
+2021,4,18,1600,7Th Street,Old City 2,6,Washington,DC,20001,V1634,homicide: non-police-involved,44,male,NW,S2183,4/19/2021,11/22/1981,39,homicide: non-police-involved,male
+2023,1,30,1500,Anacostia Avenue,DC Stadium Area,7,Washington,DC,20019,V1635,homicide: non-police-involved,39,female,NE,S3024,04-11-2023,7/25/1964,58,homicide: non-police-involved,male
+2021,5,14,400,2Nd Street,Central-tri 3,6,Washington,DC,20001,V1641,homicide: non-police-involved,27,male,NW,S2401,8/16/2021,8/24/1992,28,homicide: non-police-involved,male
+2021,10,8,3900,Capitol Street,Congress Heights,8,Washington,DC,20032,V1645,homicide: non-police-involved,33,male,SW,S2516,10/26/2021,11/16/2000,20,homicide: non-police-involved,male
+2022,7,5,700,Kenilworth Terrace,Lily Ponds,7,Washington,DC,20019,V1646,homicide: non-police-involved,16,male,NE,S2720,07-10-2022,4/13/1989,33,homicide: non-police-involved,male
+2021,9,28,1300,Kalmia Road,Shepherd Heights,4,Washington,DC,20012,V1658,homicide: non-police-involved,76,male,NW,S2556,12-06-2021,04-12-1964,57,homicide: non-police-involved,male
+2021,7,2,1300,Brentwood Road,Brookland,5,Washington,DC,20018,V1667,homicide: non-police-involved,21,male,NE,S2335,07-02-2021,8/26/1999,21,homicide: non-police-involved,male
+2021,7,8,3300,Erie Street,Hillcrest,7,Washington,DC,20020,V1670,homicide: non-police-involved,24,male,SE,S3185,07-10-2023,12-09-2000,22,homicide: non-police-involved,male
+2021,7,19,1600,Gales Street,Old City 1,6,Washington,DC,20002,V1676,homicide: non-police-involved,41,male,NE,S2479,9/22/2021,6/21/1963,58,homicide: non-police-involved,male
+2021,7,25,100,Q Street,Old City 2,5,Washington,DC,20001,V1679,homicide: non-police-involved,19,male,NW,S3772,12/13/2021,6/17/2001,20,homicide: non-police-involved,male
+2021,7,25,100,Q Street,Old City 2,5,Washington,DC,20001,V1679,homicide: non-police-involved,19,male,NW,S2561,12/13/2021,6/17/2001,20,homicide: non-police-involved,male
+2023,5,4,3500,Hayes Street,Lily Ponds,7,Washington,DC,20019,V1682,homicide: non-police-involved,47,male,NE,S3160,6/30/2023,12-04-1979,43,homicide: non-police-involved,male
+2022,7,26,1600,Webster Street,Michigan Park,5,Washington,DC,20017,V1693,homicide: non-police-involved,69,female,NE,S2734,7/26/2022,08-02-1991,30,homicide: non-police-involved,female
+2021,9,17,4500,Benning Road,Fort Dupont Park,7,Washington,DC,20019,V1700,homicide: non-police-involved,57,male,SE,S2509,10/24/2021,07-02-1983,38,homicide: non-police-involved,male
+2021,9,15,4000,1St Street,Congress Heights,8,Washington,DC,20032,V1704,homicide: non-police-involved,37,male,SE,S2800,9/13/2022,7/27/1995,27,homicide: non-police-involved,male
+2021,9,15,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1706,homicide: non-police-involved,37,female,SE,S2551,12-02-2021,10-09-2003,18,homicide: non-police-involved,male
+2021,9,15,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1706,homicide: non-police-involved,37,female,SE,S2550,12-02-2021,8/15/1984,37,homicide: non-police-involved,female
+2022,1,21,3800,Barney Drive,Fort Lincoln,5,Washington,DC,20018,V1707,homicide: non-police-involved,20,male,NE,S2666,4/28/2022,05-04-2003,18,homicide: non-police-involved,male
+2022,1,21,3800,Barney Drive,Fort Lincoln,5,Washington,DC,20018,V1707,homicide: non-police-involved,20,male,NE,S2665,4/28/2022,3/31/2004,18,homicide: non-police-involved,male
+2021,9,26,5200,E Street,Marshall Heights,7,Washington,DC,20019,V1712,homicide: non-police-involved,52,male,SE,S2491,10-06-2021,11/15/1983,37,homicide: non-police-involved,male
+2021,10,7,600,Parkland Place,Congress Heights,8,Washington,DC,20032,V1720,homicide: non-police-involved,41,female,SE,S2492,10-07-2021,9/27/1992,29,homicide: non-police-involved,female
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3844,09-05-2023,2/16/1987,36,non-fatal shooting,male
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3843,09-05-2023,2/16/1987,36,non-fatal shooting,male
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3842,09-05-2023,2/16/1987,36,non-fatal shooting,male
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3841,09-05-2023,2/16/1987,36,homicide: non-police-involved,male
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3840,09-05-2023,2/16/1987,36,non-fatal shooting,male
+2023,9,5,200,M Street,Southwest Waterfront,6,Washington,DC,20024,V1721,homicide: non-police-involved,32,male,SW,S3417,09-05-2023,2/16/1987,36,non-fatal shooting,male
+2021,10,14,2000,Savannah Place,Randle Heights,8,Washington,DC,20020,V1725,homicide: non-police-involved,18,male,SE,S2683,5/17/2022,8/25/2000,21,homicide: non-police-involved,male
+2022,8,4,1800,Hope Road,Anacostia,8,Washington,DC,20020,V1727,homicide: non-police-involved,25,female,SE,S2743,08-04-2022,09-03-1963,58,homicide: non-police-involved,male
+2021,10,22,4900,Capitol Street,Marshall Heights,7,Washington,DC,20019,V1730,homicide: non-police-involved,21,male,SE,S2519,10/27/2021,5/24/1970,51,homicide: non-police-involved,male
+2023,6,12,2900,Southern Avenue,Randle Heights,8,Washington,DC,20020,V1734,homicide: non-police-involved,24,male,SE,S3154,6/14/2023,11/20/1976,46,homicide: non-police-involved,male
+2022,2,22,1500,Capitol Street,NoMa,5,Washington,DC,20002,V1740,homicide: non-police-involved,34,female,NE,S2623,03-03-2022,11-01-1998,23,homicide: non-police-involved,female
+2023,4,4,600,46Th Place,Fort Dupont Park,7,Washington,DC,20019,V1746,homicide: non-police-involved,56,male,SE,S3023,04-04-2023,11/28/1972,50,homicide: non-police-involved,male
+2023,1,4,200,15Th Street,Mall/East Potomac Park,2,Washington,DC,20004,V1755,homicide: non-police-involved,52,male,NW,S3647,01-04-2023,12-10-1981,41,homicide: non-police-involved,male
+2023,1,4,200,15Th Street,Mall/East Potomac Park,2,Washington,DC,20004,V1755,homicide: non-police-involved,52,male,NW,S2906,01-04-2023,12-10-1981,41,homicide: non-police-involved,male
+2023,9,17,1200,Brentwood Road,Brentwood,5,Washington,DC,20018,V1759,homicide: non-police-involved,34,male,NE,S3611,12-08-2023,3/20/2000,23,homicide: non-police-involved,male
+2022,1,3,500,55Th Street,Deanwood,7,Washington,DC,20019,V1761,homicide: non-police-involved,67,male,NE,S2575,01-03-2022,8/13/1979,42,homicide: non-police-involved,male
+2022,2,27,100,N Street,Old City 2,5,Washington,DC,20001,V1767,homicide: non-police-involved,32,male,NW,S2660,4/21/2022,1/21/1989,33,homicide: non-police-involved,male
+2022,1,19,2500,Georgia Avenue,Columbia Heights,1,Washington,DC,20001,V1773,homicide: non-police-involved,27,female,NW,S2585,1/25/2022,04-05-1994,27,homicide: non-police-involved,male
+2022,3,9,400,York Avenue,Brentwood,5,Washington,DC,20002,V1779,homicide: non-police-involved,54,male,NE,S2635,3/15/2022,7/24/1991,30,homicide: non-police-involved,male
+2022,1,31,3200,M Street,Georgetown,2,Washington,DC,20007,V1782,homicide: non-police-involved,27,male,NW,S2757,8/16/2022,10-10-1997,24,homicide: non-police-involved,male
+2022,2,5,3300,Capitol Street,Lily Ponds,7,Washington,DC,20019,V1783,homicide: non-police-involved,32,female,NE,S2597,02-05-2022,3/13/1991,30,homicide: non-police-involved,male
+2022,2,8,500,Division Avenue,Deanwood,7,Washington,DC,20019,V1786,homicide: non-police-involved,54,female,NE,S2864,11-12-2022,5/26/1999,23,homicide: non-police-involved,male
+2023,11,14,1900,Minnesota Avenue,Randle Heights,8,Washington,DC,20020,V1788,homicide: non-police-involved,26,female,SE,S3633,12/20/2023,10/26/1999,24,homicide: non-police-involved,female
+2022,2,15,3800,9Th Street,Congress Heights,8,Washington,DC,20032,V1789,homicide: non-police-involved,20,male,SE,S3279,11/22/2022,12-06-2000,21,homicide: non-police-involved,male
+2023,2,26,3300,D Street,Fort Dupont Park,7,Washington,DC,20019,V1792,homicide: non-police-involved,54,male,SE,S3792,2/26/2023,04-12-1981,41,homicide: non-police-involved,male
+2022,3,4,2300,18Th Street,Mt. Pleasant,1,Washington,DC,20009,V1794,homicide: non-police-involved,42,male,NW,S2671,05-06-2022,8/21/1994,27,homicide: non-police-involved,male
+2022,3,15,2200,Minnesota Avenue,Anacostia,8,Washington,DC,20020,V1800,homicide: non-police-involved,37,female,SE,S2664,4/27/2022,8/29/1993,28,homicide: non-police-involved,male
+2023,11,3,1400,Fairmont Street,Columbia Heights,1,Washington,DC,20009,V1801,homicide: non-police-involved,14,male,NW,S3572,11-09-2023,12-10-2005,17,homicide: non-police-involved,male
+2022,4,17,3800,Minnesota Avenue,Deanwood,7,Washington,DC,20019,V1803,homicide: non-police-involved,38,female,NE,S2699,06-07-2022,9/14/1984,37,homicide: non-police-involved,male
+2022,4,25,5000,Dakota Avenue,Riggs Park,5,Washington,DC,20017,V1805,homicide: non-police-involved,26,male,NE,S3824,07-10-2023,12-09-2000,22,homicide: non-police-involved,male
+2022,5,6,2300,Nicholson Street,Anacostia,7,Washington,DC,20020,V1808,homicide: non-police-involved,32,male,SE,S2815,9/23/2022,3/21/1991,31,homicide: non-police-involved,male
+2022,6,7,3600,Brothers Place,Congress Heights,8,Washington,DC,20032,V1812,homicide: non-police-involved,60,male,SE,S2698,06-07-2022,8/24/1970,51,homicide: non-police-involved,male
+2022,6,22,2800,Alabama Avenue,Hillcrest,7,Washington,DC,20020,V1824,homicide: non-police-involved,36,male,SE,S2902,12/30/2022,6/20/1993,29,homicide: non-police-involved,male
+2022,7,19,400,Burbank Street,Fort Dupont Park,7,Washington,DC,20019,V1830,homicide: non-police-involved,40,male,SE,S2841,10/17/2022,1/13/1986,36,homicide: non-police-involved,male
+2022,7,27,4300,4Th Street,Congress Heights,8,Washington,DC,20032,V1834,homicide: non-police-involved,19,male,SE,S3782,11-01-2022,06-05-1995,27,homicide: non-police-involved,male
+2022,7,27,4300,4Th Street,Congress Heights,8,Washington,DC,20032,V1834,homicide: non-police-involved,19,male,SE,S2850,11-01-2022,06-05-1995,27,homicide: non-police-involved,male
+2022,7,27,4300,4Th Street,Congress Heights,8,Washington,DC,20032,V1835,homicide: non-police-involved,41,male,SE,S3782,11-01-2022,06-05-1995,27,homicide: non-police-involved,male
+2022,7,27,4300,4Th Street,Congress Heights,8,Washington,DC,20032,V1835,homicide: non-police-involved,41,male,SE,S2850,11-01-2022,06-05-1995,27,homicide: non-police-involved,male
+2022,9,2,100,56Th Street,Deanwood,7,Washington,DC,20019,V1843,homicide: vehicular death ,60,female,SE,S2820,09-03-2022,11/26/1982,39,homicide: vehicular death ,male
+2022,10,17,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1847,homicide: non-police-involved,19,male,SE,S3790,1/23/2023,3/28/2003,19,homicide: non-police-involved,male
+2022,10,17,1300,Congress Street,Randle Heights,8,Washington,DC,20032,V1847,homicide: non-police-involved,19,male,SE,S2935,1/23/2023,3/28/2003,19,homicide: non-police-involved,male
+2023,2,1,1400,Potomac Avenue,Old City 1,6,Washington,DC,20003,V1858,homicide: non-police-involved,64,male,SE,S3789,02-01-2023,6/22/1991,31,non-fatal shooting,male
+2023,2,1,1400,Potomac Avenue,Old City 1,6,Washington,DC,20003,V1858,homicide: non-police-involved,64,male,SE,S3788,02-01-2023,6/22/1991,31,non-fatal shooting,male
+2023,2,1,1400,Potomac Avenue,Old City 1,6,Washington,DC,20003,V1858,homicide: non-police-involved,64,male,SE,S2919,02-01-2023,6/22/1991,31,homicide: non-police-involved,male
+2023,1,7,1200,Half Street,Old City 1,6,Washington,DC,20003,V1879,homicide: non-police-involved,20,male,SE,S2915,1/20/2023,2/18/1991,31,homicide: non-police-involved,male
+2023,6,28,700,19Th Street,Trinidad,5,Washington,DC,20002,V1900,homicide: non-police-involved,54,female,NE,S3597,12-03-2023,04-07-1998,25,homicide: non-police-involved,male
+2023,12,6,2600,Naylor Road,Randle Heights,8,Washington,DC,20020,V1923,homicide: non-police-involved,24,male,SE,S3698,2/13/2024,7/27/1997,26,homicide: non-police-involved,male
+2023,2,26,3300,D Street,Fort Dupont Park,7,Washington,DC,20019,V1940,homicide: police-involved,57,male,SE,S3792,2/26/2023,04-12-1981,41,homicide: non-police-involved,male
+2023,2,26,3300,D Street,Fort Dupont Park,7,Washington,DC,20019,V1941,homicide: non-police-involved,57,male,SE,S3792,2/26/2023,04-12-1981,41,homicide: non-police-involved,male
+2022,10,28,3400,Stanton Road,Randle Heights,8,Washington,DC,20020,V1944,homicide: non-police-involved,3,female,SE,S3881,2/15/2024,08-02-1996,27,homicide: non-police-involved,female
